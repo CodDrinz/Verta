@@ -1,0 +1,1 @@
+window.VERTA_CONFIG = { url: "https://cnyelqeointzipfvnqzz.supabase.co", key: "sb_publishable_jeXM51y3hzXVvswDnMqwEA_ZB_4vLfg" };
